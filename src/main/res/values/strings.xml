@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="user_name">Biya Girma</string>
+    <string name="track">Android</string>
+    <string name="country">Ethiopia</string>
+    <string name="email">biyagirma@gmail.com</string>
+    <string name="phoneNumber">+251922103256</string>
+    <string name="slack_username">"Biya"</string>
+</resources>
